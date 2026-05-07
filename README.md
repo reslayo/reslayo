@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @LoopPrint
+- 👋 Hi, I’m @reslayo
 - 👀 My hobby is programming, challenges. And I am the former captain of the Rugby sports team.
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Twitch
-- 📫 How to reach me e-mail: loopprint.contact@int.pl
+- 📫 How to reach me e-mail: ??? soon!
 <p align="left">
 <a href="https://www.youtube.com/channel/UC5OK-1jort9BEQnZwqRHpOg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ReSlay" height="30" width="40" /></a>
 <a href="https://www.twitch.tv/reslayo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitch.svg" alt="ReSlay" height="30" width="40" /></a>
@@ -19,20 +19,20 @@
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/LoopPrint/LoopPrint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoopPrint&layout=compact&theme=dracula" />
+<a href="https://github.com/reslayo/reslayo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reslayo&layout=compact&theme=dracula" />
 </a><br>
-<a href="https://github.com/LoopPrint/LoopPrint">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LoopPrint&show_icons=true&line_height=27&count_private=true&theme=dracula" alt="LoopPrint's GitHub Stats"/>
+<a href="https://github.com/reslayo/reslayo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=reslayo&show_icons=true&line_height=27&count_private=true&theme=dracula" alt="reslayo's GitHub Stats"/>
 </a>
 
 <br>
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=LoopPrint&theme=nord&column=9)](https://github.com/LoopPrint/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=reslayo&theme=nord&column=9)](https://github.com/reslayo/github-profile-trophy)
 
 <!---
-LoopPrint/LoopPrint is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+reslayo/reslayo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
